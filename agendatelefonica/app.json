@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "agendatelefonica",
+    "slug": "agendatelefonica",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "agendatelefonica"
+}
